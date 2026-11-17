@@ -9,7 +9,7 @@ GostStylePlugin — автоматический ГОСТ-стиль текст�
 Шаг 1. Скачайте плагин
 Перейдите на страницу Releases этого репозитория и скачайте последнюю версию файла GostStylePlugin.dll (или архив GostStylePlugin-v1.0.zip, внутри которого лежит DLL).
 
-📌 Ссылка для вставки в ваш README: [Скачать GostStylePlugin.dll (Releases)]([../../releases/latest](https://disk.yandex.ru/d/-1Hh-ipVYm-dQg))
+📌 Ссылка для вставки в ваш README: [Скачать GostStylePlugin.dll (Releases)](https://disk.yandex.ru/d/-1Hh-ipVYm-dQg)
 
 Шаг 2. Загрузите плагин в AutoCAD
 Откройте AutoCAD 2020.
